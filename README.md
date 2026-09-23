@@ -1,14 +1,28 @@
-# PATi — Private Algorithmic Trading (international)
 
-**Shared Oxygen, LLC**
+[6 lines collapsed]
 
+A self-hosted desk for **equities, options, and crypto**.  
+Research, decisions, and history stay on **your** infrastructure.
+<br/>
+</div>
+![Self-hosted on your infrastructure](https://img.shields.io/badge/Self--hosted-your_infrastructure-4F46E5?style=for-the-badge&labelColor=111827)
+![Equities, options, and crypto](https://img.shields.io/badge/Markets-equities_%C2%B7_options_%C2%B7_crypto-0D9488?style=for-the-badge&labelColor=111827)
+![International sessions](https://img.shields.io/badge/Sessions-international-0284C7?style=for-the-badge&labelColor=111827)
+![Updated September 2026](https://img.shields.io/badge/Updated-September_2026-D97706?style=for-the-badge&labelColor=111827)
+```mermaid
+%%{init: {"theme": "base", "flowchart": {"htmlLabels": false, "curve": "basis", "padding": 8, "nodeSpacing": 16, "rankSpacing": 16}}}%%
+flowchart LR
+  A(["Self-hosted"])
+  B(["Equities · Options · Crypto"])
+  C(["International"])
+  D(["September 2026"])
+  A ~~~ B ~~~ C ~~~ D
+</div>
+  style A fill:#4F46E5,stroke:#312E81,stroke-width:2px,color:#F8FAFC
+  style B fill:#0F766E,stroke:#134E4A,stroke-width:2px,color:#F0FDFA
+  style C fill:#0369A1,stroke:#0C4A6E,stroke-width:2px,color:#F0F9FF
+  style D fill:#C2410C,stroke:#7C2D12,stroke-width:2px,color:#FFF7ED
+```
 ---
 
-## Executive summary
-
-**PATi** (Private Algorithmic Trading) is a **self-hosted** algorithmic trading platform: strategy logic, learning signals, and operator workflows run on **your infrastructure**—so sensitive research, agent behavior, and trade history are not a SaaS product’s dataset. The product pairs a **Mission Control** operator console with an **end-to-end operating rhythm** from premarket preparation through intraday management and end-of-day discipline, designed for **equities, options, and crypto** in a **single** configurable stack.
-
-PATi is built around a **council of specialized AI roles** (not a single “do-everything” model). Multiple perspectives feed a **consensus** decision, while a **Risk** function can **veto** proposals that fail portfolio constraints—governance that mirrors how professional desks separate idea generation from risk approval.
-
-PATi does **not** promise returns. It is positioned for operators who want **discipline, auditability, and continuous improvement** under their own control.
-
+[117 lines collapsed]
